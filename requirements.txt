@@ -6,6 +6,6 @@ ipython==1.1.0
 pybitcointools==1.0
 pylru==1.0.6
 python-bitcoinrpc==0.1
-requests==2.4.3
+requests==2.20.0
 tinys3==0.1.11
 wsgiref==0.1.2
