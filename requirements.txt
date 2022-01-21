@@ -2,7 +2,7 @@ argparse==1.2.1
 boto==2.34.0
 distribute==0.6.24
 futures==2.2.0
-ipython==1.1.0
+ipython==7.16.3
 pybitcointools==1.0
 pylru==1.0.6
 python-bitcoinrpc==0.1
